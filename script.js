@@ -47,6 +47,7 @@ $(document).ready(function () {
     backSpeed: 60,
     loop: true,
   });
+  //ignore this comment
 
   // owl carousel script
   $(".carousel").owlCarousel({
